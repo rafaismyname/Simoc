@@ -1,7 +1,32 @@
-Simoc$*.class
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
 
-*$*.class
+# Precompiled Headers
+*.gch
+*.pch
 
-/build/classes/com/biosmart/simoc/Simoc$1.class
-/build/classes/com/biosmart/simoc/Simoc$2.class
-/build/classes/com/biosmart/simoc/Simoc$3.class
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
