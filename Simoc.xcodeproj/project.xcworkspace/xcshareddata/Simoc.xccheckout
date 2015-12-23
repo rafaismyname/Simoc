@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7656C479-F636-4EE0-9759-FD2F8A2F1EC7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Simoc</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>33CE014FC6A92DFE8FDD149037873A8242AF0876</key>
+		<string>bitbucket.org:biosmart/simoc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Simoc.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>33CE014FC6A92DFE8FDD149037873A8242AF0876</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:biosmart/simoc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>33CE014FC6A92DFE8FDD149037873A8242AF0876</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>33CE014FC6A92DFE8FDD149037873A8242AF0876</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Simoc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
